@@ -1,7 +1,6 @@
+# QSharp
 */bin
-[Oo]bj/*
-[Dd]ebug/
-[Dd]ebugPublic/
-[Rr]elease/
+*/obj
 
+# Jupyter Notebooks
 *.ipynb_checkpoints
