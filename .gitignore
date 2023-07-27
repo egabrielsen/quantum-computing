@@ -1,6 +1,6 @@
 # QSharp
-*/bin
-*/obj
+**/bin/**
+**/obj/**
 
 # Jupyter Notebooks
 *.ipynb_checkpoints
