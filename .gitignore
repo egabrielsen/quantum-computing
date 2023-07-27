@@ -1,2 +1,7 @@
 */bin
-*/obj
+[Oo]bj/*
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+
+*.ipynb_checkpoints
