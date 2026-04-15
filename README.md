@@ -24,7 +24,7 @@ These properties allow quantum computers to solve certain problems—like factor
 ## Basic Gates
 The following are example circuits and gates that make up the building blocks of Quantum Circuitry. Here are a few single qubit gates and 2-qubit gates that demonstrate things you can do with qubits
 
-### [Hadamard Gate](circuits/basic/hadamard/hadamard.md)
+### [Hadamard Gate](circuits/basic/hadamard/README.md)
 A Hadamard gate (often denoted as H) is one of the most fundamental quantum logic gates. It plays a key role in many quantum algorithms by creating superposition.
 
 ### Pauli-X (Not) Gate
